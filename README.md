@@ -3,7 +3,7 @@ This repository holds the code, data, and documentation for my capstone project,
 
 Highlights:
 
- * Developed a Machine Learning Model: Leverages KNN to predict the likelihood of heart disease based on patient data.
-Utilized heart disease dataset (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset): Trained the model on a well-established dataset containing relevant patient characteristics.
-Evaluated Model Performance: Employed metrics to assess the model's effectiveness in predicting heart disease.
-Clear and Documented Code: The codebase adheres to best practices for readability and maintainability.
+ * Developed a Machine Learning Model: Leverages Logistic Regression, SVC, KNeighbors Classifier, Non-Linear ML Algorithms, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier to predict the likelihood of heart disease based on patient data.
+ * Utilized heart disease dataset (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset): Trained the model on a well-established dataset containing relevant patient characteristics.
+ * Evaluated Model Performance: Employed metrics to assess the model's effectiveness in predicting heart disease.
+ * Clear and Documented Code: The codebase adheres to best practices for readability and maintainability.
